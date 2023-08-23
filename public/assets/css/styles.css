@@ -177,10 +177,13 @@ hr.goldline {
     padding-bottom: 5%;
 }
 
+.rowC{display:flex; flex-direction:row;}
+
 .product-image-ml {
     margin-bottom: 10%;
     margin-left: 8%;
 }
+
 .product-text-ml{
     padding-bottom: 5%;
     padding-left: 8%;

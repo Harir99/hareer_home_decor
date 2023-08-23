@@ -8,8 +8,8 @@ function ProductDetails() {
         <div>
 
             {/* First Product*/}
-            <div>
-                <div className="wrapper product-image-ml">
+            <div className="rowC">
+                <div className=" wrapper product-image-ml">
                     <span className="dot-left left"></span>
                     <img
                         src={require("../img/Cloud_cup/blue_cup.png")}

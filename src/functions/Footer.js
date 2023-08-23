@@ -24,16 +24,10 @@ function Footer() {
                                         <ul className="list-unstyled">
                                             <Row>
                                                 <Col>
-                                                    <li><i><TelephoneFill/></i> &nbsp; +1.555.555.5555</li>
+                                                    <li><i><TelephoneFill/></i> &nbsp; +1.913.263.9072</li>
                                                 </Col>
                                                 <Col>
-                                                    <li><i><TelephoneFill/></i> &nbsp; +1.777.777.7777</li>
-                                                </Col>
-                                                <Col>
-                                                    <li><i><Link/></i>  &nbsp; email@company.com</li>
-                                                </Col>
-                                                <Col>
-                                                    <li><i><Link/></i>  &nbsp; email@company.com</li>
+                                                    <li><i><Link/></i>  &nbsp; hareerhomedecor@gmail.com</li>
                                                 </Col>
                                             </Row>
 

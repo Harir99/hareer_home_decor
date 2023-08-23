@@ -13,7 +13,7 @@ function SlideShow() {
                         alt="First slide"
                     />
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">CHAIR</h1>
+                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
@@ -35,7 +35,7 @@ function SlideShow() {
                         alt="First slide"
                     />
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">CHAIR</h1>
+                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
@@ -58,7 +58,7 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">CHAIR</h1>
+                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
@@ -81,7 +81,7 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">CHAIR</h1>
+                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
@@ -104,7 +104,7 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">CHAIR</h1>
+                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>

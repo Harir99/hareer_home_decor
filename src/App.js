@@ -1,5 +1,5 @@
 import './App.css';
-import React, {  useState } from 'react';
+import React, {  useState, useEffect } from 'react';
 import { Container, Dropdown, Nav, Navbar } from 'react-bootstrap';
 import SlideShow from './functions/SlideShow'
 import ProductDetails from "./functions/ProductDetails";
