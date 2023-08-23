@@ -35,7 +35,7 @@ function App() {
                                                 />
                                                 <input
                                                     autoComplete="off"
-                                                    style={{width: "15vw"}}
+                                                    style={{width: "20vw"}}
                                                     className="pl-3 text-black body-font input-field small"
                                                     id="outlined-basic"
                                                     onChange={inputHandler}
@@ -49,7 +49,7 @@ function App() {
                                         </div>
                                         <div className="center">
                                             <a className="navbar-brand justify-content-center text-black" href="/">
-                                                <h2 style={{fontSize: "150%"}}>Hareer</h2></a>
+                                                <h2 style={{fontSize: "3.3vh"}}>Hareer</h2></a>
                                         </div>
 
                                         {/*<Navbar expand="lg" className="right">*/}
