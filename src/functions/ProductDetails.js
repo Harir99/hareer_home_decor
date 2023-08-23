@@ -24,7 +24,7 @@ function ProductDetails() {
                     <h2 className="text-black" style={{fontSize: "100%"}}> Coffee Mug and Saucer Set</h2>
                     <hr className="goldline position-absolute top-50 start-50"/>
                     <div className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                        Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table.
+                        Quality Cup Coaster designed for your Kitchen  and Coffee Table.
                         <br></br><i>Available in multiple colors: Yellow, Pink, Sky Blue, White, Silver</i>
                     </div><br></br>
                     <Button

@@ -22,7 +22,7 @@ function SlideShow() {
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
                             <div className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Pink)
+                                Quality Cup Coaster designed for your Kitchen  and Coffee Table (Pink)
                             </div>
                         </Container>
                     </Carousel.Caption>
@@ -43,7 +43,7 @@ function SlideShow() {
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
                             <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Sky Blue)
+                                Quality Cup Coaster designed for your Kitchen  and Coffee Table (Sky Blue)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -65,7 +65,7 @@ function SlideShow() {
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
                             <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Yellow)
+                                Quality Cup Coaster designed for your Kitchen  and Coffee Table (Yellow)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -87,7 +87,7 @@ function SlideShow() {
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
                             <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (White)
+                                Quality Cup Coaster designed for your Kitchen  and Coffee Table (White)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -109,7 +109,7 @@ function SlideShow() {
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
                             <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Silver)
+                                Quality Cup Coaster designed for your Kitchen  and Coffee Table (Silver)
                             </p>
                         </Container>
                     </Carousel.Caption>
