@@ -90,7 +90,7 @@ function App() {
                 </header>
 
             </div>
-            <div className="App-body">
+            <div className="App-body mb-sm-5 pb-sm-5">
                 <ProductDetails />
 
             </div>
