@@ -13,18 +13,17 @@ function SlideShow() {
                         alt="First slide"
                     />
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
+                        <h1 style={{fontSize: "13vw", color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
                             <span className="text-gold text-small-55 block text-left">COFFEE MUG <br></br>WITH SAUCER SET</span>
-                            <h2 className="text-black text-left" style={{fontSize: 55}}>Welcome to <br></br> Hareer
+                            <h2 className="text-black text-left" style={{fontSize: "100%"}}>Welcome to <br></br> Hareer
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
-                            <p className="pt-5 text-black text-left" style={{fontSize: 17}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                                designed for your Kitchen  and Coffee Table (Pink)
-                            </p>
+                            <div className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Pink)
+                            </div>
                         </Container>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -35,17 +34,16 @@ function SlideShow() {
                         alt="First slide"
                     />
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
+                        <h1 style={{fontSize: "13vw", color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
                             <span className="text-gold text-small-55 block text-left">COFFEE MUG <br></br>WITH SAUCER SET</span>
-                            <h2 className="text-black text-left" style={{fontSize: 55}}>Welcome to <br></br> Hareer
+                            <h2 className="text-black text-left" style={{fontSize: "100%"}}>Welcome to <br></br> Hareer
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
-                            <p className="pt-5 text-black text-left" style={{fontSize: 17}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                                designed for your Kitchen  and Coffee Table (Sky Blue)
+                            <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Sky Blue)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -58,17 +56,16 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
+                        <h1 style={{fontSize: "13vw", color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
                             <span className="text-gold text-small-55 block text-left">COFFEE MUG <br></br>WITH SAUCER SET</span>
-                            <h2 className="text-black text-left" style={{fontSize: 55}}>Welcome to <br></br> Hareer
+                            <h2 className="text-black text-left" style={{fontSize: "100%"}}>Welcome to <br></br> Hareer
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
-                            <p className="pt-5 text-black text-left" style={{fontSize: 17}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                                designed for your Kitchen  and Coffee Table (Yellow)
+                            <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Yellow)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -81,17 +78,16 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
+                        <h1 style={{fontSize: "13vw", color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
                             <span className="text-gold text-small-55 block text-left">COFFEE MUG <br></br>WITH SAUCER SET</span>
-                            <h2 className="text-black text-left" style={{fontSize: 55}}>Welcome to <br></br> Hareer
+                            <h2 className="text-black text-left" style={{fontSize: "100%"}}>Welcome to <br></br> Hareer
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
-                            <p className="pt-5 text-black text-left" style={{fontSize: 17}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                                designed for your Kitchen  and Coffee Table (White)
+                            <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (White)
                             </p>
                         </Container>
                     </Carousel.Caption>
@@ -104,17 +100,16 @@ function SlideShow() {
                     />
 
                     <div className="rotate side-text left">
-                        <h1 style={{fontSize: 200, color:"#e4e7eb"}} className="left">MUGS</h1>
+                        <h1 style={{fontSize: "13vw", color:"#e4e7eb"}} className="left">MUGS</h1>
                     </div>
                     <Carousel.Caption>
                         <Container fluid>
                             <span className="text-gold text-small-55 block text-left">COFFEE MUG <br></br>WITH SAUCER SET</span>
-                            <h2 className="text-black text-left" style={{fontSize: 55}}>Welcome to <br></br> Hareer
+                            <h2 className="text-black text-left" style={{fontSize: "100%"}}>Welcome to <br></br> Hareer
                                 Home Decor</h2>
                             <hr className="goldline position-absolute bottom-0 start-0"/>
-                            <p className="pt-5 text-black text-left" style={{fontSize: 17}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                                designed for your Kitchen  and Coffee Table (Silver)
+                            <p className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                                Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table (Silver)
                             </p>
                         </Container>
                     </Carousel.Caption>

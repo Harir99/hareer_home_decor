@@ -9,11 +9,11 @@ function ProductDetails() {
 
             {/* First Product*/}
             <div>
-                <div className=" wrapper product-image-ml">
-                    <span className="dot-left left"></span>
+                <div className="wrapper product-image-ml">
+                    <span className=" dot-left left"></span>
                     <img
                         src={require("../img/Cloud_cup/blue_cup.png")}
-                        className="d-block w-30 position-absolute top-0 end-0"
+                        className=" d-block w-30 position-absolute top-0 end-0"
                         alt="First slide"
                     />
                 </div>
@@ -23,12 +23,10 @@ function ProductDetails() {
                     <p style={{color: "#a2a2a2"}} className="text-small-50 block">FEATURED PRODUCTS </p>
                     <h2 className="text-black"> Coffee Mug and Saucer Set</h2>
                     <hr className="goldline position-absolute top-50 start-50"/>
-                    <p className="pt-5 text-black pb-4" style={{fontSize: 17}}>
-                        Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High  <br></br>
-                        Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco <br></br>
-                        designed for your Kitchen  and Coffee Table <br></br>
-                        <i>Available in the following colors: Silver, Yellow, Sky Blue, Pink, White</i>
-                    </p>
+                    <div className="pt-5 text-black text-left" style={{fontSize: "55%", maxWidth:"35vw"}}>Hareer Luxuries Coffee Mugs Adorable sunflower Saucer-High
+                        Quality Cup Coaster for Tea Milk Coffee Espresso Matcha Latte Chai Coco designed for your Kitchen  and Coffee Table.
+                        <br></br><i>Available in multiple colors: Yellow, Pink, Sky Blue, White, Silver</i>
+                    </div><br></br>
                     <Button
                         variant="outline-dark"
                         onClick={(e) => {

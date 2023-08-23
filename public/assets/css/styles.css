@@ -15,10 +15,11 @@
 }
 
 .searchBar {
-    height: 50px;
+    width: 5vw;
     box-sizing: border-box;
-    padding-left: 1.5rem;
+    padding-left: 0.2rem;
 }
+
 .icon-button {
     /*background-color: rgba(220 177 74);*/
     background-color: transparent;
@@ -116,10 +117,15 @@
 }
 
 .slider-margin {
-    margin-top: 15%;
+    margin-top: 10%;
     margin-bottom: 10%;
 }
-
+@media (max-width: 575.98px) {
+    .slider-margin {
+        margin-top: 55%;
+        margin-bottom: 10%;
+    }
+}
 .text-small-55 {
     font-size: 55%;
     font-weight: 500;
@@ -139,9 +145,9 @@ hr.goldline {
 /* background of header (slider + nav)*/
 .box-border {
     box-sizing: border-box;
-    border: 15px solid white;
+    border: 1vw solid white;
     background-color: #f3f4f6;
-    padding: 10px;
+    padding: 1%;
 }
 
 /*navigation bar items outline*/
@@ -162,6 +168,7 @@ hr.goldline {
     background-color: #f3f4f6;
 }
 
+
 .rotate {
     transform: rotate(-90deg);
 }
@@ -176,8 +183,6 @@ hr.goldline {
     padding-left: 60%;
     padding-bottom: 5%;
 }
-
-.rowC{display:flex; flex-direction:row;}
 
 .product-image-ml {
     margin-bottom: 10%;
@@ -197,8 +202,8 @@ hr.goldline {
     z-index:1;
 }
 .dot-left {
-    height: 300px;
-    width: 300px;
+    height: 30vh;
+    width: 20vw;
     background-color: #f3f4f6;
     border-radius: 50%;
     display: inline-block;
@@ -206,9 +211,22 @@ hr.goldline {
     margin-left: 23%;
     z-index:0;
 }
+@media (max-width: 575.98px){
+    .dot-left {
+        height: 20vh;
+        width: 30vw;
+        background-color: #f3f4f6;
+        border-radius: 50%;
+        display: inline-block;
+        margin-top: 15%;
+        margin-left: 23%;
+        z-index:0;
+    }
+}
+
 .dot-right {
-    height: 300px;
-    width: 300px;
+    height: 30vh;
+    width: 20vw;
     background-color: #f3f4f6;
     border-radius: 50%;
     display: inline-block;
@@ -331,3 +349,14 @@ footer.nb-footer .copyright p {
     display: none;
 }
 li {list-style-type: none;}
+
+input.large { display: inline-block; }
+input.small { display: none; }
+
+@media (max-width: 768px){
+    input.large { display: none; }
+    input.small { display: inline-block; }
+}
+.css-fix {
+    white-space: pre-wrap; /* or pre-line */
+}

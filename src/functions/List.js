@@ -1,6 +1,5 @@
-import { React, useState } from 'react'
+import { React } from 'react'
 import data from "../data.json"
-import {useNavigate} from "react-router-dom";
 
 function List(props) {
     const filteredData = data.filter((el) => {

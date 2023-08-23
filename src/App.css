@@ -20,6 +20,7 @@
   flex-direction: column;
   color: black;
   padding-top: 2%;
+
 }
 
 .App-body {
@@ -61,5 +62,3 @@
 .search {
   width: 30%;
 }
-
-
