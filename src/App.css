@@ -14,16 +14,19 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /*background-color: #282c34;*/
+  background-color: #f3f4f6;
   display: flex;
   flex-direction: column;
+  color: black;
+  padding-top: 2%;
+}
+
+.App-body {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +39,27 @@
     transform: rotate(360deg);
   }
 }
+.box {
+  text-align: left;
+  border: black ridge 1px;
+  border-radius: 10px;
+  margin: 3px;
+  width: 20rem;
+  padding-left: 10px;
+}
+
+
+.main {
+  display: flex;
+  height: 5vh;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.search {
+  width: 30%;
+}
+
+
