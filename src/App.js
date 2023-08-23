@@ -49,7 +49,7 @@ function App() {
                                         </div>
                                         <div className="center">
                                             <a className="navbar-brand justify-content-center text-black" href="/">
-                                                <h2 style={{ fontSize: 35, fontWeight: 500}}>Hareer</h2></a>
+                                                <h2 style={{fontSize: "150%"}}>Hareer</h2></a>
                                         </div>
 
                                         {/*<Navbar expand="lg" className="right">*/}
