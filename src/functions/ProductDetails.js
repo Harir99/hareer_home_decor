@@ -8,7 +8,7 @@ function ProductDetails() {
         <div>
 
             {/* First Product*/}
-            <div className="rowC">
+            <div>
                 <div className=" wrapper product-image-ml">
                     <span className="dot-left left"></span>
                     <img
